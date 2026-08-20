@@ -3,7 +3,7 @@
 An interactive BI-style analytics dashboard built with Python and Streamlit, 
 visualizing customer shopping patterns across 3,900 customers and 18 features.
 
-**Live Demo:** [Click here](https://huggingface.co/spaces/KaranCheemalapati/Customer-Shopping-Behaviour)
+**Live Demo:** [Click here](https://customer-behaviouranalysis.streamlit.app/)
 
 ---
 
